@@ -1,5 +1,4 @@
 
- # Foobar
 
  # Nessus_Data_Analysis
  This pandas tool helps you to filter security csv data collected using nessus software and make analysis much easy and convenient.
@@ -13,7 +12,7 @@ git clone https://github.com/ishaanchaturvedi/Nessus_Data_Analysis.git
 
 ## Usage
 
-Run the nessus_data_analysis.py or nessus_data_analysis.ipynb file 
+Run the nessus_data_analysis.py or nessus_data_analysis.ipynb file for further explaination
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
